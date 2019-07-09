@@ -1,2 +1,2 @@
 # pic32mx_r61581_no_os
-LittlevGL ported to PIC32MX with R61581 display controller
+pic32mx_ssd1963_no_os
